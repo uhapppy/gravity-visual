@@ -13,6 +13,6 @@ simulation of gravity for great visual
   * mass    -define the mass of the star
   * size  - define the size of the star
   
-  ##general setting
+  ## general setting
   
   *grid    -if checked will show a grid
