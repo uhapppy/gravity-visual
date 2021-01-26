@@ -8,3 +8,4 @@ simulation of gravity for great visual
   
   # setting explain
   ## star setting
+  * x , y , z coordonate -define the position of the star
