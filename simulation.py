@@ -2,7 +2,6 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-#from pyqtgraph.Qt import QtCore, QtGui
 import pyqtgraph.opengl as gl
 import pyqtgraph as pg
 from PyQt5.QtGui import QPalette, QColor
@@ -284,7 +283,6 @@ class Ui_MainWindow(object):
         
         
         
-        MainWindow.setWindowIcon(QtGui.QIcon('C:/Users/JF/Desktop/project/blackhole.ico'))
         self.parameter.setTitle(_translate("MainWindow", "general parameter"))
         self.collision.setText(_translate("MainWindow", "collision"))
         self.trace.setText(_translate("MainWindow", "trace"))
@@ -609,7 +607,7 @@ def unfreez():
 if __name__ == "__main__":
     import sys  
     app = QtWidgets.QApplication(sys.argv)
-    file = open('C:/Users/JF/Desktop/stylesheet/Geoo.qss','r')
+    file = open('C:/Users/JF/Desktop/stylesheet/Geoo.qss','r')#change this for the repetory you put the 'geoo.qss' file in
     with file:
         qss = file.read()
         app.setStyleSheet(qss)
