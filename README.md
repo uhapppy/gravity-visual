@@ -5,6 +5,7 @@ simulation of gravity for great visual
    * 3 color setting
   * a lot of parameter to play with
   * possiblility to create custom ring system
+  * real time simulation
   
   # setting explain
   ## star setting
@@ -58,7 +59,7 @@ simulation of gravity for great visual
   # instruction
   
   * 1   if you want the dark theme download the Geoos.qss file and change the directory on the line 610 or if you want to have the light theme just erase the line 610 to 613
-  or you can download the .exe file here https://drive.google.com/file/d/1BwDfBA-ZGBHWdFt2N5isz2MAT77ZBMtM/view?usp=sharing (the .exe file its not working for everybody also with thee .exe file only light theme is available)
+  or you can download the .exe file here https://drive.google.com/file/d/1BwDfBA-ZGBHWdFt2N5isz2MAT77ZBMtM/view?usp=sharing (the .exe file its not working for everybody also with thee .exe file only light theme is available,also the label for the setting can be a little bit bugged but still very usable)
   
   * 2    to run a simulation just put the parameter you want for a ring then click add ring (before starting a simulation you always need to add a leats one ring)
   
