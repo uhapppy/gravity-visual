@@ -58,7 +58,7 @@ simulation of gravity for great visual
   # instruction
   
   * 1   if you want the dark theme download the Geoos.qss file and change the directory on the line 610 or if you want to have the light theme just erase the line 610 to 613
-  or you can download the .exe file here https://drive.google.com/file/d/1Ttm_0DS7wPyfMjxzjotYolvUmRyUJPts/view?usp=sharing (the .exe file its not working for everybody)
+  or you can download the .exe file here https://drive.google.com/file/d/1BwDfBA-ZGBHWdFt2N5isz2MAT77ZBMtM/view?usp=sharing (the .exe file its not working for everybody also with thee .exe file only light theme is available)
   
   * 2    to run a simulation just put the parameter you want for a ring then click add ring (before starting a simulation you always need to add a leats one ring)
   
@@ -66,3 +66,5 @@ simulation of gravity for great visual
   # NOTE
   
   the programm is not realy well optimized and python is note the best for simulation like that so you will have some limitation dependent on your hardware
+  i test it on different computer
+  * on a computer with a gtx 1660ti and i5 9600k the maximum body to have a fluid experience is about 2000 without trace and collision with collision is about 200 and with trace is about 200 too
