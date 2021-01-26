@@ -67,4 +67,6 @@ simulation of gravity for great visual
   
   the programm is not realy well optimized and python is note the best for simulation like that so you will have some limitation dependent on your hardware
   i test it on different computer
-  * on a computer with a gtx 1660ti and i5 9600k the maximum body to have a fluid experience is about 2000 without trace and collision with collision is about 200 and with trace is about 200 too
+  * on a computer with a gtx 1660ti and i5 9600k and 16gb of ram the maximum body to have a fluid experience is about 2000 without trace and collision with collision is about 200 and with trace is about 200 too
+  
+  * on a computer with a intel graphic 620 , i5 8250u  and 8gb of ram the maximum body to have a fluid experience is about 400 without trace and collision with collision is about 150 and with trace is about 150 too
