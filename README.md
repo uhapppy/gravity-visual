@@ -15,4 +15,5 @@ simulation of gravity for great visual
   
   ## general setting
   
-  *grid    -if checked will show a grid
+  * grid    -if checked will show a grid
+  * pxmode  -if checked activate the pxmode
