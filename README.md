@@ -26,4 +26,16 @@ simulation of gravity for great visual
   
   * random -each planet will have a random color
   * depend on scalar speed    -each planet will have is color determine by is scalar speed in real time
-  * depend on coord speed  -each planet will have is color determine by the speed of each of is coordonate (red=x, blue=y ,z=green)  
+  * depend on coord speed  -each planet will have is color determine by the speed of each of is coordonate (red=x, blue=y ,z=green) 
+  
+  ## ring setting
+  
+  * x,y,z coordonate -define the coordonate of the center of the ring
+  * number of astre  -define the number of celestial corpse in the ring
+  * distance of the center -define a wich distance from the center celestial corpse will be create
+  * width of the ring  - define the width of the ring
+  * speed - define the speed of the celestial corpse
+  * angle of the ring -define the angle of rotation by the y axis of the ring
+  * tickness of the ring -define the range in z value in which celestial corpse can be create
+  
+  ## camera setting
