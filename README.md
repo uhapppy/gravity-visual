@@ -39,3 +39,10 @@ simulation of gravity for great visual
   * tickness of the ring -define the range in z value in which celestial corpse can be create
   
   ## camera setting
+  
+  * x,y,z -define the center of the camera
+  * elevation -define the angle at which the camera will look
+  * distance from center -define the distance from the center where the camera willl be
+  * field of view -define the field of view can be change in real time
+  
+  # button explain
