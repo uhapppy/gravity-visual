@@ -17,7 +17,7 @@ simulation of gravity for great visual
   ## general setting
   
   * grid    -if checked will show a grid
-  * pxmode  -if checked activate the pxmode
+  * pxmode  -if checked activate the pxmode (want the pxmode is activate celestial corpse will be smaller so if you want bigger celestial corpse uncheck pxmode  )
   * trace   -if checked the planet will leave a trace behind them 
   * collision   -if checked will activate the collision mode inn this mode if a planet touch the star the star absorb the planet and get bigger
   * g value   -change the value of gravity force
