@@ -7,3 +7,4 @@ simulation of gravity for great visual
   * possiblility to create custom ring system
   
   # setting explain
+  ## star setting
