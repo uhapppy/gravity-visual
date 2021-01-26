@@ -58,6 +58,6 @@ simulation of gravity for great visual
   # instruction
   
   * 1   if you want the dark theme download the Geoos.qss file and change the directory on the line 610 or if you want to have the light theme just erase the line 610 to 613
-  or you can download the .exe file here https://drive.google.com/file/d/1Ttm_0DS7wPyfMjxzjotYolvUmRyUJPts/view?usp=sharing
+  or you can download the .exe file here https://drive.google.com/file/d/1Ttm_0DS7wPyfMjxzjotYolvUmRyUJPts/view?usp=sharing (the .exe file its not working for everybody)
   
   * 2    to run a simulation just put the parameter you want for a ring then click add ring (before starting a simulation you always need to add a leats one ring)
