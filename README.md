@@ -61,3 +61,8 @@ simulation of gravity for great visual
   or you can download the .exe file here https://drive.google.com/file/d/1Ttm_0DS7wPyfMjxzjotYolvUmRyUJPts/view?usp=sharing (the .exe file its not working for everybody)
   
   * 2    to run a simulation just put the parameter you want for a ring then click add ring (before starting a simulation you always need to add a leats one ring)
+  
+  
+  # NOTE
+  
+  the programm is not realy well optimized and python is note the best for simulation like that so you will have some limitation dependent on your hardware
