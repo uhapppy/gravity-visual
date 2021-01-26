@@ -51,6 +51,10 @@ simulation of gravity for great visual
   * stop simulation  -will erase everything and stop simulation
   * freeze movement  -will freeze the simulation in place
   * unfreeze movement -will unfreeze the simulation
-  * clear ring will erase all ring but the simulation will not stop
+  * clear ring -will erase all ring but the simulation will not stop
   
   * add ring -will add a ring with the current setting in the current simulation can be use to add ring in a already running simulation
+  
+  # instruction
+  
+  * 1   if you want the dark theme download the Geoos.qss file and change the directory
