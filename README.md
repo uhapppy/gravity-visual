@@ -45,4 +45,12 @@ simulation of gravity for great visual
   * distance from center -define the distance from the center where the camera willl be
   * field of view -define the field of view can be change in real time
   
-  # button explain
+  # buttons explain
+  
+  * start simulation -will start a new simulation
+  * stop simulation  -will erase everything and stop simulation
+  * freeze movement  -will freeze the simulation in place
+  * unfreeze movement -will unfreeze the simulation
+  * clear ring will erase all ring but the simulation will not stop
+  
+  * add ring -will add a ring with the current setting in the current simulation can be use to add ring in a already running simulation
