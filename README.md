@@ -17,3 +17,5 @@ simulation of gravity for great visual
   
   * grid    -if checked will show a grid
   * pxmode  -if checked activate the pxmode
+  * trace   -if checked the planet will leave a trace behind them 
+  * collision   -if checked will activate the collision mode inn this mode if a planet touch the star the star absorb the planet and get bigger
